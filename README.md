@@ -8,6 +8,7 @@
 ## Getting Started
 
 1. Install IDE https://www.jetbrains.com/idea/ on your device
+2. Install Java JDK http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 2. Git clone the project in your project directory.
 3. Complile & Run the project .
 
